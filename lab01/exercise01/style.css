@@ -9,3 +9,14 @@ body {
 /*
 Add some style blocks below this line to style the card.
 */
+div {
+    height: 100px;
+    width: 50px;
+
+}
+
+body {
+    background-color: lightblue;
+  }
+
+  
